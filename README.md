@@ -92,7 +92,8 @@ endmodule
 
 **RTL**
 
-![Screenshot 2024-11-28 232126](https://github.com/user-attachments/assets/a300e314-12e8-4dcb-97c9-13f7006a6af5)
+![Screenshot 2024-11-28 232126](https://github.com/user-attachments/assets/5f35784f-8640-43c8-b7f4-c9ae5bb9cd7f)
+
 
 **Result:**
 Thus the basic logic gates are studied and the truth tables are verified.
