@@ -84,16 +84,15 @@ assign c[6]= ~ a;
 endmodule
 **Logic symbol & Truthtable**
 
-![logicgates](https://github.com/user-attachments/assets/d62a91ca-53bb-4d61-84ae-8085225cca6f)
+![logicgates](https://github.com/user-attachments/assets/135e5465-8b17-4290-8b80-211f82ae5e7c)
 
 **RTL realization Output:**
 
-![Screenshot 2024-11-28 233415](https://github.com/user-attachments/assets/3cfa403d-e55a-4b14-948c-ea3ba30c95e2)
+![Screenshot 2024-11-28 233415](https://github.com/user-attachments/assets/fa3722c0-03b8-40ad-bea8-aaf92302ff80)
 
 **RTL**
 
-![Screenshot 2024-11-28 232126](https://github.com/user-attachments/assets/5f35784f-8640-43c8-b7f4-c9ae5bb9cd7f)
-
+![Screenshot 2024-11-28 232126](https://github.com/user-attachments/assets/e9ae054a-0bf2-43ba-b22b-fb358dff1a7f)
 
 **Result:**
 Thus the basic logic gates are studied and the truth tables are verified.
