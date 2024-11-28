@@ -82,6 +82,7 @@ assign c[4]= a ^ b;
 assign c[5]= ~(a ^ b); 
 assign c[6]= ~ a; 
 endmodule
+```
 **Logic symbol & Truthtable**
 
 ![logicgates](https://github.com/user-attachments/assets/135e5465-8b17-4290-8b80-211f82ae5e7c)
